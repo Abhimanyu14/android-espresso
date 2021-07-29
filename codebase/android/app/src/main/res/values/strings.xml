@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Espresso</string>
+    <string name="activity_main_title">Hello World!</string>
+    <string name="activity_second_title">Second Activity</string>
 </resources>
